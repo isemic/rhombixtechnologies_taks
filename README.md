@@ -52,7 +52,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/song-recommendation-system.git
+git clone https://github.com/isemic/rhombixtechnologies_taks.git
 Navigate to the project directory:
 
 bash
